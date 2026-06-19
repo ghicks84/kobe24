@@ -16,5 +16,9 @@ Author: Gerald Hicks
 
 
 
-This project was created to practice Git and GitHub commands. 
+This project was created to practice Git and GitHub commands.
+
+
+
+this is is is is, everyday im practicing .. i have 5 days off because of junetenth. 
 
